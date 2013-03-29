@@ -76,36 +76,13 @@ body {
   left: 12%;
 }
 
-h1, h2 { 
+h1, h2, h3, h4, h5 { 
   font-family: "Le Monde Sans Std";
   color: #AD0932;
 }
 
 .wf-loading h1, .wf-loading h2 { 
   font-family: Helvetica, Arial, sans-serif;
-}
-
-h2 { 
-  margin-left: .5em;
-  font-size: 1.4em;
-}
-
-h3 { 
-  color: black;
-  font-weight: bolder;
-  font-variant: small-caps;
-  margin-left: 1.2em;
-  display: inline;
-}
-
-h4 { 
-  display: block;
-  font-weight: normal;
-  font-size: 75%;
-  margin-left: 3em;
-  font-style: italic;
-  margin-top: .3em;
-  margin-bottom: 0px;
 }
 
 h1 { 
